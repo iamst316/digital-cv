@@ -14,4 +14,10 @@ table,td,th{
 	margin: 20px;
 	padding: 10px;
 }
+#main-pic{
+	box-shadow: 10px 10px #DC96F7;
+	border-radius: 50%;
+}
 
+br{
+}
