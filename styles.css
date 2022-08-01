@@ -19,5 +19,9 @@ table,td,th{
 	border-radius: 50%;
 }
 
-br{
+.footer{
+	background-color: #2a0638;
+	color: #ece3ee;
+	margin-top: 3%;
+	padding: 10%;
 }

@@ -35,20 +35,19 @@
      </tr>
    </table>
    <hr>
-   
+
 
    <h3>Work Experience</h3>
 	 <ul>
 		 <li>
-      <h4>Advik Hi-Tech Pvt. Ltd</h4>
-			<h6>Junior Intern&nbsp&nbsp&nbsp&nbspPune, MH&nbsp&nbsp&nbsp&nbsp06/2018 to 07/2018</h6>
-			<ul>
-				<li>Project title- Rejection Analysis of A576 Manual Fuel Cock.</li>
-				<li>Analysed the pattern for the rejection of A576 MFC.</li>
-				<li> Suggested suitable measures to counter the errors.</li>
-				<li>Helped the ground staff to carry out proper plan for workpiece assembly.</li>
-				<li>Helped implement a cost-effective solution for the mentioned problem.</li>
-      </ul>
+			 <h4>Advik Hi-Tech Pvt. Ltd</h4>
+			 <h6>Junior Intern&nbsp&nbsp&nbsp&nbspPune, MH&nbsp&nbsp&nbsp&nbsp06/2018 to 07/2018</h6>
+			 <ul>
+				 <li>Project title- Rejection Analysis of A576 Manual Fuel Cock.</li>
+				 <li>Analysed the pattern for the rejection of A576 MFC.</li>
+				 <li> Suggested suitable measures to counter the errors.</li>
+				 <li>Helped the ground staff to carry out proper plan for workpiece assembly.</li>
+				 <li>Helped implement a cost-effective solution for the mentioned problem.</li>
 		 </li>
 		 <li>
 		 	<h4>Advik Hi-Tech Pvt. Ltd</h4>
@@ -60,22 +59,11 @@
 				<li>Engaged in a productive dialogue with the troubled customer.</li>
 				<li>Implemented the 5-why technique across the floor to reach the root cause problem.</li>
 				<li>Helped carry out necessary counter-measures for the same.</li>
-      </ul>
+      		</ul>
 		</li>
-    <li>
-      <h4>Nobious Business Automation</h4>
-     <h6>Software Engineer Trainee&nbsp&nbsp&nbsp&nbspGhaziabad, UP&nbsp&nbsp&nbsp&nbsp02/2022 to 06/2022</h6>
-     <ul>
-       <li>Learned new frameworks</li>
-       <li>Implemented and integrated changes to codebase</li>
-       <li>Practised extensive debugging</li>
-       <li>Provided KT to relatively green members</li>
-     </ul>
-   </li>
 	 </ul>
-   
-   <hr>
 
+		
    <h3>Hobbies</h3>
    <ul>
      <li>Brazilian Jiu Jitsu</li>
@@ -85,13 +73,10 @@
    <hr>
    <h3>Technical Skills</h3>
    <ol type="I">
-     <li>Python3</li>
+     <li>Python Programming</li>
      <li>HTML5</li>
      <li>CSS3</li>
-     <li>Django</li>
      <li>Javascript(ES6)</li>
-     <li>Core Java</li>
-     <li>MySQL</li>
      <li>CAD-Siemens NX</li>
      
    </ol>
@@ -102,9 +87,5 @@
    <h2>Here's a little gift for visiting me!!!</h2>
    <a href="./myResume.pdf" download>Super Mega Ultra Gift</a>
 
-    <div class="footer">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quas ea, tempore eveniet praesentium voluptas commodi, impedit quis recusandae molestiae beatae ratione. Neque debitis tempora ipsum ipsa maiores laborum aliquam assumenda numquam facilis.
-      
-    </div>
   </body>
 </html>
