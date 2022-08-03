@@ -25,3 +25,15 @@ table,td,th{
 	margin-top: 3%;
 	padding: 10%;
 }
+
+.pune,.pantnagar,.nobious{
+	border-color: #2a0638 ;
+	border-style: solid;
+	padding: 20px;
+	display: table;
+	margin: auto;
+	box-shadow: 10px 10px #cc9bdf;
+}
+.workex{
+	padding: 10px;
+}
