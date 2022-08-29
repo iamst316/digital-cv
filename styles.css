@@ -32,9 +32,13 @@ table,td,th{
 	border-style: solid;
 	padding: 20px;
 	display: table;
-	margin: auto;
+	margin: 10px;
 	box-shadow: 10px 10px #cc9bdf;
 }
 .workex{
 	padding: 10px;
+}
+
+hr{
+	width: 10%;
 }
