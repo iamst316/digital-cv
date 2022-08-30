@@ -25,6 +25,7 @@ table,td,th{
 	color: #ece3ee;
 	margin-top: 3%;
 	padding: 10%;
+	text-align: center;
 }
 
 .pune,.pantnagar,.nobious{
@@ -38,3 +39,41 @@ table,td,th{
 .workex{
 	padding: 10px;
 }
+
+
+.made-by, .contact{
+	display: inline-block;
+	margin: 40px;
+	position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
