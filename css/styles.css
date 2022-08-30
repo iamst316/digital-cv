@@ -47,9 +47,11 @@ table,td,th{
 	position: relative;
 }
 
-
-
-
+.education{
+	background-color: #3E2854;
+	color: #EFDEFF;
+	padding: 15px;
+}
 
 
 
