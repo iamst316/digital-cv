@@ -9,18 +9,32 @@ html{
 	display: inline-block;
 	text-align: center;
 	box-shadow: 6px 6px  #ab7dfb;
-	padding: 12px;
+	padding: 30px;
+	margin-top: 10%;
+	margin-left: 25.5%;
+	height: 200px;
+	width: 625px;
 }
 
 .tenth, .tweleveth,.grad{
 	display: inline;
 	height: 20px;
 	margin: 10px;
-	color: 
-	box-shadow: 
 	
 }
 
-.tenth:hover, .tweleveth:hover,.grad:hover{
-	
+button:hover{
+	color: #084607;
+	box-shadow: 3px 2px  #3bf04b;
+	background-color: #a2faa3
+}
+button{
+	color:  #410f47 ;
+	box-shadow: 3px 5px  #ab7dfb;
+	background-color: #ed3bf0;
+	height: 52px;
+	width: 104px;
+	border-radius: 1rem;
+	font-size: 1rem;
+	font-family: 'Ubuntu', sans-serif;
 }
