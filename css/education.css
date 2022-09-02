@@ -1,6 +1,26 @@
+html{
+	background-color: #fcb2fd;
+}
+
 .education{
-	color: #112031;
+	color:  #dfc1f4;
 	font-family: 'Ubuntu', sans-serif;
+	background-color: #3a095c;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 6px 6px  #ab7dfb;
+	padding: 12px;
+}
+
+.tenth, .tweleveth,.grad{
+	display: inline;
+	height: 20px;
+	margin: 10px;
+	color: 
+	box-shadow: 
 	
 }
 
+.tenth:hover, .tweleveth:hover,.grad:hover{
+	
+}
